@@ -6,7 +6,7 @@ In a more detail, you can visit the codes of the implementation here --> https:/
 
 🌱 I also have a good memory in performing a data analysis process within my bachelor thesis. Right now, such an experience encourages me further to learn about data analysis. 
 
-The repository would likely to be filled in with what I perceive as a learning curve of my understanding in logic, privacy, and analysis
+The repository would likely to be filled in with what I perceive as a learning curve of my understanding in logic, privacy, and data analysis
 
 <!---
 nuradiansyah/nuradiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
