@@ -1,11 +1,11 @@
 👋 Hi, I’m @nuradiansyah
 
-📖I’m currently working as a researcher on the topics of data privacy and ontology. My current research work aims at investigating approaches to solving the problem of ontology repairs in a fragment of first-order logic, called description logics. 
-In addition to the theoretical side of solving this problem, I was involved in the implemention of repairing a large collection of ontologies, in a sense that the ontologies do no longer contain errors or unwanted information. The codes of the implementation can be accessed here --> https://github.com/de-tu-dresden-inf-lat/abox-repairs-wrt-static-tbox.
+I am currently an ontology management expert in Digital Science, an AI-centered company providing scientific- and research-supporting tools. I am mainly responsible in developing and maintaining ontologies covering life science-related domains ranging from thousand up to million number of concepts. Specifically, I build up my ontology engineering skills in implementing ontology merging and mapping approaches as well as concept redundancies removal. 
 
-🌱 What's more, I have internship experience in building a geospatial dashboard for visualizing the distribution of affiliated partners of my internship company together with their unit sales. Such a historic experience motivates me again to revamp some important data analysis skills.
+📖Previously, I worked as a researcher on the topics of data privacy and ontology. My research work aimed at investigating approaches to solving the problem of ontology repairs in a fragment of first-order logic, called description logics. 
+In addition to the theoretical side of solving this problem, I was involved in the implementation of repairing a large collection of ontologies, in a sense that the ontologies do no longer contain errors or unwanted information. The codes of the implementation can be accessed here --> https://github.com/de-tu-dresden-inf-lat/abox-repairs-wrt-static-tbox.
 
-This Github Profile would likely be mainly occupied with what I perceive as a learning curve of my understanding of data and knowledge representation.
+🌱 What's more, I have an internship experience in building a geospatial dashboard for visualizing the distribution of affiliated partners of my internship company together with their unit sales. 
 
 <!---
 nuradiansyah/nuradiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
