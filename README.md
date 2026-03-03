@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nuradyan Syah
+# 👋 Hi, I'm Nuradiansyah
 
 <div align="center">
 
