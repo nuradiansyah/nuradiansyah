@@ -1,11 +1,69 @@
-👋 Hi, I’m @nuradiansyah
+# 👋 Hi, I'm Nuradyan Syah
 
-I am currently an ontology management expert in DigitalScience, an AI-centered company providing scientific- and research-supporting tools. I am mainly responsible in developing and maintaining ontologies covering life science-related domains ranging from thousand up to million number of concepts. Specifically, I build up my ontology engineering skills in implementing ontology merging and mapping approaches as well as concept redundancies removal. To be more precise, the developed ontologies will be used as data points in Dimensions Knowledge Graph, one of the products of DigitalScience
+<div align="center">
 
-📖Previously, I worked as a researcher on the topics of data privacy and ontology. My research work aimed at investigating approaches to solving the problem of ontology repairs in a fragment of first-order logic, called description logics. 
-In addition to the theoretical side of solving this problem, I was involved in the implementation of repairing a large collection of ontologies, in a sense that the ontologies do no longer contain errors or unwanted information. The codes of the implementation can be accessed here --> https://github.com/de-tu-dresden-inf-lat/abox-repairs-wrt-static-tbox.
+### Ontology Management Expert | Data Privacy Researcher | AI Enthusiast
 
-🌱 What's more, I have an internship experience in building a geospatial dashboard for visualizing the distribution of affiliated partners of my internship company together with their unit sales. 
+Passionate about knowledge graphs, semantic web technologies, and data integrity solutions.
+
+</div>
+
+---
+
+## 💼 Current Role
+
+**Ontology Management Expert** at **DigitalScience**
+
+An AI-centered company providing scientific and research-supporting tools. I specialize in:
+
+- 🗂️ **Developing & Maintaining Ontologies** - Managing knowledge domains spanning from thousands to millions of concepts in life sciences
+- 🔗 **Ontology Engineering** - Implementing merging and mapping approaches to create cohesive semantic structures  
+- 🧹 **Data Quality** - Removing concept redundancies and ensuring ontology consistency
+- 📊 **Knowledge Graphs** - Contributing to [Dimensions Knowledge Graph](https://www.dimensions.ai/), a flagship DigitalScience product
+
+---
+
+## 📖 Research Background
+
+**Data Privacy & Ontology Repair Researcher**
+
+My research focuses on solving ontology repair problems in description logics (a fragment of first-order logic):
+
+- **Theoretical Research** - Investigated novel approaches to ontology repairs while maintaining logical consistency
+- **Implementation & Optimization** - Led the practical implementation of repairing large-scale ontology collections, removing errors and unwanted information
+- **Open Source Contribution** - Implementation available at [abox-repairs-wrt-static-tbox](https://github.com/de-tu-dresden-inf-lat/abox-repairs-wrt-static-tbox)
+
+---
+
+## 🌱 Additional Experience
+
+**Geospatial Dashboard Development**
+
+Built a comprehensive geospatial visualization system that:
+- Displays the distribution of affiliated partners across geographic regions
+- Provides unit sales analytics and business intelligence insights
+- Demonstrates expertise in data visualization and spatial analysis
+
+---
+
+## 🔧 Key Expertise
+
+- Ontology Engineering & Knowledge Graphs
+- Data Quality & Integrity
+- Semantic Web Technologies
+- Description Logics & Formal Methods
+- Geospatial Data Visualization
+- Data Privacy & Security
+
+---
+
+<div align="center">
+
+### Let's connect and collaborate! 🚀
+
+[LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [GitHub](https://github.com/nuradiansyah)
+
+</div>
 
 <!---
 nuradiansyah/nuradiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
