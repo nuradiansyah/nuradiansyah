@@ -30,7 +30,7 @@ An AI-centered company providing scientific and research-supporting tools. I spe
 My research focuses on solving ontology repair problems in description logics (a fragment of first-order logic):
 
 - **Theoretical Research** - Investigated novel approaches to ontology repairs while maintaining logical consistency
-- **Implementation & Optimization** - Led the practical implementation of repairing large-scale ontology collections, removing errors and unwanted information
+- **Implementation & Optimization** - Contributed to the practical implementation of repairing large-scale ontology collections, removing errors and unwanted information
 - **Open Source Contribution** - Implementation available at [abox-repairs-wrt-static-tbox](https://github.com/de-tu-dresden-inf-lat/abox-repairs-wrt-static-tbox)
 
 ---
@@ -53,7 +53,7 @@ Built a comprehensive geospatial visualization system that:
 - Semantic Web Technologies
 - Description Logics & Formal Methods
 - Geospatial Data Visualization
-- Data Privacy & Security
+- Data Privacy
 
 ---
 
