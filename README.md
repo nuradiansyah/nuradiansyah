@@ -61,7 +61,7 @@ Built a comprehensive geospatial visualization system that:
 
 ### Let's connect and collaborate! 🚀
 
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/adrian-nuradiansyah-48365848/)) • [Email](adrian.nuradiansyah@gmail.com) • [GitHub](https://github.com/nuradiansyah)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/adrian-nuradiansyah-48365848/) • [Email](adrian.nuradiansyah@gmail.com) • [GitHub](https://github.com/nuradiansyah)
 
 </div>
 
