@@ -19,7 +19,7 @@ An AI-centered company providing scientific and research-supporting tools. I spe
 - 🗂️ **Developing & Maintaining Ontologies** - Managing knowledge domains spanning from thousands to millions of concepts in life sciences
 - 🔗 **Ontology Engineering** - Implementing merging and mapping approaches to create cohesive semantic structures  
 - 🧹 **Data Quality** - Removing concept redundancies and ensuring ontology consistency
-- 📊 **Knowledge Graphs** - Currently being part of the [Metaphacts]{https://metaphacts.com/} team, specifically to the OntoChem Ontology Team
+- 📊 **Knowledge Graphs** - Currently being part of the [Metaphacts](https://metaphacts.com/) team, specifically to the OntoChem Ontology Team
 
 ---
 
